@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeohkj
 - 👀 I’m interested in Data Science, Machine Learning and Neural networks
-- 🌱 I just graduated from University for a Computer Science degree and am doing a certificate on Data Analytics by Google
-- 💞️ I’m looking to collaborate on any freelance website development or coding projects
+- 🌱 I just graduated from University for a Computer Science degree and am working in the data field
+- 💞️ Passionate about statistics and data science
 - 📫 Reach out to me in khengjian@gmail.com for enquiries
 
 <!---
